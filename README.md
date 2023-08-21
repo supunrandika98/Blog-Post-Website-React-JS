@@ -1,3 +1,25 @@
+# Run the project with the database
+
+To run the website type below command in the VS Code terminal
+
+### `npm start`
+
+To run the JSON server database type below command in the VS Code terminal
+
+### `npx json-server --watch database/db.json --port 8000`
+
+
+
+# Screenshots
+
+![](Screenshots/1.png)
+
+
+![](Screenshots/2.png)
+
+![](Screenshots/3.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
