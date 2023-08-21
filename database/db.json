@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "Software supply chain dangers spike as developer flexibility and third-party integration increase",
+      "imageURL": "https://cdn.sanity.io/images/bl383u0v/production/58821e8b906429847de3736dd3c70b5be8f351e3-976x549.jpg?rect=1,0,975,549&w=900&h=507&q=80&fit=max&auto=format&dpr=1",
+      "body": " Daniel Krivelevich, CTO of AppSec at Palo Alto Network’s Prisma Cloud, told IT Brew that changes in how software is delivered and developed have driven threat actors to adapt. “The reason why we are having this discussion is because there was a massive paradigm shift in relation to the way engineering is done,” Krivelevich said. Watch your back. Increased flexibility and third-party integration for developers are trending. But IT security company Wiz noted the potential danger facing software supply chains, as well, in its 2023 Cloud Security Threat Report. The report identified two main points of concern: identity-based risk and software-based risk. Hacking systems through identity and permissions infiltration allows threat actors to get inside organizations by disguising themselves as someone who belongs there. Wiz found that companies give third-party vendors in the software space far more access than they should, heightening the chances for damage to the supply chain. The report found that 82% of companies give these vendors privileged roles, 76% permit third parties to completely take over accounts, and a whopping “90% of cloud security teams were unaware they had granted high privileges. Software and code-based attacks, on the other hand, implant code to extract information—as we saw in the SolarWinds and Log4Shell attacks.",
+      "author": "Supun Randika",
+      "id": 1
+    },
+    {
+      "title": "Microsoft will let customers run Office 365 on AWS virtual desktop",
+      "imageURL": "https://www.itbrew.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbl383u0v%2Fproduction%2Ff6fac2a389e0cc6c241dadb8774697b21bf9ddf2-1200x800.jpg%3Fq%3D80%26auto%3Dformat&w=1920&q=75",
+      "body": " The Register reported that Microsoft will now issue some customers specific licenses that will allow them to run Microsoft 365 Apps and some other programs through Amazon—specifically, those customers using Amazon WorkSpaces’ virtual desktop infrastructure. Under prior licensing terms, customers would’ve had to purchase additional licenses to do so. Microsoft and Amazon confirmed the switch in separate announcements. Directions on Microsoft first reported the change; its analyst Wes Miller told The Register the alternate method remains “very premium” and expensive. “You’ll need a Microsoft 365 E3 or E5 subscription for every user accessing Microsoft 365 Apps for enterprise on Workspaces,” Miller said. That means each user will be billed for access to features like Enterprise Mobility and Security or Virtual Desktop Access, even if they never use them. Ultimately, Microsoft is “still offering far better terms with Azure Virtual Desktop (AVD) or Windows 365 than they do for AWS, Google or Alibaba,” Miller added. Neither Google nor Alibaba’s cloud services appear to have won any concessions in this change.",
+      "author": "Supun Randika",
+      "id": 2
+    },
+    {
+      "title": "How to network in IT careers when the office doesn’t exist",
+      "imageURL": "https://cdn.sanity.io/images/bl383u0v/production/97d1913f440e04f062cdb6ec795e26dd6897b737-5960x3973.jpg?w=900&h=600&q=80&fit=max&auto=format&dpr=1",
+      "body": " Leaving the office behind has its advantages—but working remotely can also come with major trade-offs where career development is concerned. Social analytics firm Buffer’s 2023 State of Remote Work report found that remote workers are generally highly satisfied with their jobs, while 36% of respondents reported it had been beneficial for their career growth. However, nearly as many (28%) reported remote work had been detrimental to career advancement. A separate report by WFH Research concluded that in-person workers had significantly more mentorship and mentoring opportunities, as well as spent more time in formal training and professional development. “Bottom line, personal interactions among colleagues diminish by a significant amount when someone works from home,” Nicholas Bloom and Jose Maria Barrero, the authors of the WFH Research report, told Fortune",
+      "author": "Navodya Perera",
+      "id": 3
+    },
+    {
+      "title": "Everyone’s cheating on coding tests. Can a chatbot help?",
+      "imageURL": "https://www.itbrew.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbl383u0v%2Fproduction%2F77ffa803aec547c3fa9c8a9ab224615119379196-1500x1000.jpg%3Fq%3D80%26auto%3Dformat&w=1920&q=75",
+      "body": " When Tigran Sloyan was at MIT, it was an embarrassment of riches when it came to recruiters. “Every single tech company [and] non-tech-company showed up two times a year, right to our doorstep,” Sloyan told IT Brew. While he acknowledges that he has math and programming skills, he understands that having MIT on his résumé fast-tracked him to jobs at Google and Oracle. That’s why Sloyan created CodeSignal, a tool that helps companies identify the right person with the right skills, no matter what their résumé looks like. Today, CodeSignal announced Cosmo, a new chatbot that uses AI to help companies find the right candidate for their technical jobs, partly by determining if the applicant has used generative AI to cheat on their coding tests.",
+      "author": "Kavindu Sankalpa",
+      "id": 4
+    },
+    {
+      "title": "Remote-management chips in millions of machines have maximum severity vulnerabilities",
+      "imageURL": "https://cdn.sanity.io/images/bl383u0v/production/d9e1aae06db8c84a8a56fe05615d76029962b751-6000x4000.jpg?w=900&h=600&q=80&fit=max&auto=format&dpr=1",
+      "body": " Millions of machines may have maximum-severity vulnerabilities, courtesy of firmware flaws their owners might not even know are there. Baseboard management controllers (BMCs) are small chips built into servers to ease remote monitoring and management—providing what Ars Technica reported is often referred to as “lights out” functionality. BMCs give IT teams the ability to measure metrics like temperatures and voltages, remotely mount media to the server, push firmware updates, and do many other privileged tasks away from the server. Because of the possibility hackers could obtain superuser privileges, BMC vulnerabilities are a serious cybersecurity threat. Eclypsium researchers analyzed AMI firmware that had originally been leaked in the 2021 attack on computer components manufacturer Gigabyte and found flaws that would allow an attacker in control of a local host operating system or an instance of remote management interface Redfish to wreak havoc on server farms.",
+      "author": "Pasindu Deshan",
+      "id": 5
+    },
+    {
+      "title": "HP printer firmware bug fix still not swatted as company offers some users replacements",
+      "imageURL": "https://cdn.sanity.io/images/bl383u0v/production/7e43c1fa1630cc87904ded6cae3f61ba10cbb329-1500x1000.jpg?w=900&h=600&q=80&fit=max&auto=format&dpr=1",
+      "body": " Millions of machines may have maximum-severity vulnerabilities, courtesy of firmware flaws their owners might not even know are there. Baseboard management controllers (BMCs) are small chips built into servers to ease remote monitoring and management—providing what Ars Technica reported is often referred to as “lights out” functionality. BMCs give IT teams the ability to measure metrics like temperatures and voltages, remotely mount media to the server, push firmware updates, and do many other privileged tasks away from the server. Because of the possibility hackers could obtain superuser privileges, BMC vulnerabilities are a serious cybersecurity threat. Eclypsium researchers analyzed AMI firmware that had originally been leaked in the 2021 attack on computer components manufacturer Gigabyte and found flaws that would allow an attacker in control of a local host operating system or an instance of remote management interface Redfish to wreak havoc on server farms.",
+      "author": "Pasindu Deshan",
+      "id": 6
+    }
+  ]
+}
